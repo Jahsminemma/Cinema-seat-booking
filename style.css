@@ -118,6 +118,8 @@ body{
     background-color: rgba(0, 0, 0, 0.5);
     padding: 10px;
     margin:40px 15px;
+    text-align: center;
+    line-height: 22px;
 }
 .movie-title{
     font-family: sans-serif;
